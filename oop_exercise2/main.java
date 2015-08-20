@@ -2,7 +2,7 @@ package oop_exercise2;
 
 /** Creates an object of type CIrcle and prints its Area and Circumference
  * @author ccheibas
- *
+ * Write a class Circle which has a field radius. For this class write two methods: one for calculating area and one for calculating perimeter.
  */
 public class main {
 

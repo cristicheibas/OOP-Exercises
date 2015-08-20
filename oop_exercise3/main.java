@@ -2,7 +2,9 @@ package oop_exercise3;
 
 /**Creates two objects of class Student and calculates their average age
  * @author ccheibas
- *
+ * Declare a class Student with the following properties: name, age and 2 methods setData and getAge. 
+ * Create 2 objects of type Student and display the average age. 
+ * Method setData should have 2 parameters which will be used to give values to Name and Age.
  */
 public class main {
 
