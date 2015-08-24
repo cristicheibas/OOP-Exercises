@@ -1,19 +1,18 @@
 package oop_exercise7;
 
-/** A subclass extending Employee
- * it also changes the hourly tariff when salary is requested
+/** 
+ * A subclass extending Employee
+ * counts its' own salary
  * @author ccheibas
- *
  */
-public class Manager extends Employee{
-	private double tariffPerHour;
+public class Manager extends Employee {
 	
 	Manager(int h) {
 		super(h);
 	}
 	
-	public double getSalary(){
-		this.tariffPerHour = super.gettariffPerHour()*1.5;
-		return this.tariffPerHour;
+	public double getSalary() {
+		return super.getSalary() * 1.5;
 	}
+	
 }

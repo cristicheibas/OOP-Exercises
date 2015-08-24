@@ -1,6 +1,7 @@
 package oop_exercise4;
 
-/** A class with setters and getters for all of its' variables
+/** 
+ * A class creating a 3D point and ways of manipulating it
  * @author ccheibas
  *
  */
@@ -10,33 +11,27 @@ public class Point {
 	private int y;
 	private int z;
 	
-	public void setx(int var)
-	{
+	public void setX(int var) {
 		this.x = var;
 	}
 	
-	public void sety(int var)
-	{
+	public void setY(int var) {
 		this.y = var;
 	}
 
-	public void setz(int var)
-	{
+	public void setZ(int var) {
 		this.z = var;
 	}
 
-	public int getx()
-	{
+	public int getX() {
 		return this.x;
 	}
 	
-	public int gety()
-	{
+	public int getY() {
 		return this.y;
 	}
 	
-	public int getz()
-	{
+	public int getZ() {
 		return this.z;
 	}
 

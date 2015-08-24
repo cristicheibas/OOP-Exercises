@@ -1,6 +1,7 @@
 package oop_exercise2;
 
-/** A class with a contructor and two methods returning a float
+/** 
+ * A class with a contructor and two methods returning a float
  * @author ccheibas
  *
  */
