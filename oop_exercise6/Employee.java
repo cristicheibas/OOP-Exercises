@@ -1,5 +1,5 @@
 package oop_exercise6;
-
+//adding a change for gerrit push
 /** 
  * The class describing the earnings of an employee
  * @author ccheibas

@@ -1,5 +1,5 @@
 package oop_exercise4;
-
+//adding a change for gerrit push
 /**
  * Implement a class Point with 3 private properties of type integer: x, y, z. 
  * Create setter and getter methods for these properties. 

@@ -1,5 +1,5 @@
 package oop_exercise4;
-
+//adding a change for gerrit push
 /** 
  * A class creating a 3D point and ways of manipulating it
  * @author ccheibas

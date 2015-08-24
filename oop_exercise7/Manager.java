@@ -1,5 +1,5 @@
 package oop_exercise7;
-
+//adding a change for gerrit push
 /** 
  * A subclass extending Employee
  * counts its' own salary

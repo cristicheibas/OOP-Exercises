@@ -1,5 +1,5 @@
 package oop_exercise1;
-
+//adding a change for gerrit push
 /** 
  * A class describing a Square contains tools for calculations
  * @author ccheibas

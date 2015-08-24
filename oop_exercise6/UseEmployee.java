@@ -1,5 +1,5 @@
 package oop_exercise6;
-
+//adding a change for gerrit push
 /** 
  * 	Create a class Employee with:
  * 	private property tariffPerHour of type double and default value 5.5

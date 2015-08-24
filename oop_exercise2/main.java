@@ -1,5 +1,5 @@
 package oop_exercise2;
-
+//adding a change for gerrit push
 /** 
  * Write a class Circle which has a field radius. For this class write two methods: 
  * one for calculating area and one for calculating perimeter.

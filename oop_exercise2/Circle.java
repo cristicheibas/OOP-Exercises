@@ -1,5 +1,5 @@
 package oop_exercise2;
-
+//adding a change for gerrit push
 /** 
  * A class with a contructor and two methods returning a float
  * @author ccheibas

@@ -1,5 +1,5 @@
 package oop_exercise5;
-
+//adding a change for gerrit push
 /**
  * Add for class Point a constructor with 3 parameters (x, y, z) which will initialize values for data fields. 
  * Use the constructor in UsePoint. Do the same with a constructor which accepts 2 parameters (x and y).

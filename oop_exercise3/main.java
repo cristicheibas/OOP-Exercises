@@ -1,5 +1,5 @@
 package oop_exercise3;
-
+//adding a change for gerrit push
 /** 
  * Declare a class Student with the following properties: name, age and 2 methods setData and getAge. 
  * Create 2 objects of type Student and display the average age. 

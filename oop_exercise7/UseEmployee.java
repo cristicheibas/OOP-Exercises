@@ -1,5 +1,5 @@
 package oop_exercise7;
-
+//adding a change for gerrit push
 /** 
  * Create a class Manager which inherits from Employee and has a method getSalary 
  * that will add 50 % bonus to Employee’s salary. 
