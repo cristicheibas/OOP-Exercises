@@ -1,6 +1,6 @@
 package oop_exercise7;
-
-/** 
+//adding a change for gerrit push
+/**
  * The class describing the earnings of an employee
  * @author ccheibas
  *
@@ -16,7 +16,7 @@ public class Employee {
 	public double gettariffPerHour() {
 		return this.tariffPerHour;
 	}
-	
+
 	public double getSalary() {
 		return this.tariffPerHour * this.hours;
 	}

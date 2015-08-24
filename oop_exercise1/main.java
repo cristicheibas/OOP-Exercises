@@ -1,7 +1,7 @@
 package oop_exercise1;
-
-/** 
- *	Write a class Square which has a field sideLength. For this class write two methods: 
+//adding a change for gerrit push
+/**
+ *	Write a class Square which has a field sideLength. For this class write two methods:
  *  one for calculating area and one for calculating perimeter.
  *  @author ccheibas
  */

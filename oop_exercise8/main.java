@@ -1,8 +1,8 @@
 package oop_exercise8;
-
-/** 
+//adding a change for gerrit push
+/**
  * Creates an objects of type Circle and Rectangle and displays their Area.
- * In abstract class GraphicObject add an abstract method area 
+ * In abstract class GraphicObject add an abstract method area
  * which will be implemented by classes Circle and Rectangle.
  * Instantiate objects of type Circle and Rectangle and display their areas.
  * @author ccheibas

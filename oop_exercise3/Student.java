@@ -1,13 +1,13 @@
 package oop_exercise3;
-
-/** 
+//adding a change for gerrit push
+/**
  * A class describing a student's name and age
  * @author ccheibas
  */
 
 public class Student {
 	private int age;
-	private String name; 
+	private String name;
 
 	public void setData (String n, int a) {
 		this.name = n;
